@@ -13,6 +13,7 @@ The model is built using TensorFlow and leverages the pretrained ResNet50 archit
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="tensorflow" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" alt="google" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/keras-blue" alt="keras" />
   <img src="https://img.shields.io/badge/kaggle-orange" alt="kaggle" />
     <img src="https://img.shields.io/badge/scikit-learn-blue" alt="scikit-learn" />
 </p>
